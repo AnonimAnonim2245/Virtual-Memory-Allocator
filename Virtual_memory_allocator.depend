@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1697816678 source:c:\users\asus\desktop\sda 1 ca\tema1.4.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<string.h>
+	"miniblock.h"
+	"block.h"
+	"alloc.h"
+	"traverse.h"
+
+1697813335 source:c:\users\asus\desktop\sda 1 ca\miniblock.c
+	"miniblock.h"
+
+1697813514 c:\users\asus\desktop\sda 1 ca\miniblock.h
+	"miniblock.h"
+	<inttypes.h>
+
+1697812995 source:c:\users\asus\desktop\sda 1 ca\block.c
+	"block.h"
+
+1697813528 c:\users\asus\desktop\sda 1 ca\block.h
+	"block.h"
+	"miniblock.h"
+	<inttypes.h>
+
+1697816041 source:c:\users\asus\desktop\sda 1 ca\alloc.c
+	<stdio.h>
+	"alloc.h"
+	"miniblock.h"
+	"block.h"
+
+1697816041 c:\users\asus\desktop\sda 1 ca\alloc.h
+	"alloc.h"
+	"miniblock.h"
+	"block.h"
+	<stdio.h>
+
+1697816098 source:c:\users\asus\desktop\sda 1 ca\traverse.c
+	<stdio.h>
+	"alloc.h"
+	"miniblock.h"
+	"block.h"
+
+1697816439 c:\users\asus\desktop\sda 1 ca\traverse.h
+	"alloc.h"
+	"miniblock.h"
+	"block.h"
+	"traverse.h"
+	<stdio.h>
+
+1697816782 source:c:\users\asus\desktop\sda 1 ca\permission.c
+	"alloc.h"
+	"miniblock.h"
+	"block.h"
+	"traverse.h"
+	"permission.h"
+	<stdio.h>
+	<stdint.h>
+	<stdio.h>
+	<inttypes.h>
+
+1697816798 c:\users\asus\desktop\sda 1 ca\permission.h
+	"alloc.h"
+	"miniblock.h"
+	"block.h"
+	"traverse.h"
+	"permission.h"
+	<stdint.h>
+	<inttypes.h>
+	<stdio.h>
+
