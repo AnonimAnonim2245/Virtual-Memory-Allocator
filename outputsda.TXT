@@ -1,0 +1,117 @@
+ERROR: Already allocated
+ERROR: Already allocated
+Total memory: 0x10000
+Free memory: 0xff92
+Number of allocated blocks: 5
+Number of allocated miniblocks: 8
+
+Block 1 begin
+Zone: 0x7c6 - 0x7da
+Miniblock 1:		0x7c6		-		0x7d0		| RW-
+Miniblock 2:		0x7d0		-		0x7da		| RW-
+Block 1 end
+
+Block 2 begin
+Zone: 0xff6 - 0x1000
+Miniblock 1:		0xff6		-		0x1000		| RW-
+Miniblock 2:		0x1000		-		0x100a		| RW-
+Block 2 end
+
+Block 3 begin
+Zone: 0x1014 - 0x1028
+Miniblock 1:		0x1014		-		0x101e		| RW-
+Miniblock 2:		0x101e		-		0x1028		| RW-
+Block 3 end
+
+Block 4 begin
+Zone: 0x3000 - 0x300a
+Miniblock 1:		0x3000		-		0x300a		| RW-
+Block 4 end
+
+Block 5 begin
+Zone: 0x3014 - 0x301e
+Miniblock 1:		0x3014		-		0x301e		| RW-
+Block 5 end
+
+Total memory: 0x10000
+Free memory: 0xfec0
+Number of allocated blocks: 5
+Number of allocated miniblocks: 13
+
+Block 1 begin
+Zone: 0x7c6 - 0x7da
+Miniblock 1:		0x7c6		-		0x7d0		| RW-
+Miniblock 2:		0x7d0		-		0x7da		| RW-
+Block 1 end
+
+Block 2 begin
+Zone: 0xff6 - 0x1000
+Miniblock 1:		0xff6		-		0x1000		| RW-
+Miniblock 2:		0x1000		-		0x100a		| RW-
+Block 2 end
+
+Block 3 begin
+Zone: 0x1014 - 0x1028
+Miniblock 1:		0x1014		-		0x101e		| RW-
+Miniblock 2:		0x101e		-		0x1028		| RW-
+Block 3 end
+
+Block 4 begin
+Zone: 0x3000 - 0x303c
+Miniblock 1:		0x3000		-		0x300a		| RW-
+Miniblock 2:		0x300a		-		0x3014		| RW-
+Miniblock 3:		0x3014		-		0x301e		| RW-
+Miniblock 4:		0x301e		-		0x3028		| RW-
+Miniblock 5:		0x3028		-		0x3032		| RW-
+Miniblock 6:		0x3032		-		0x303c		| RW-
+Block 4 end
+
+Block 5 begin
+Zone: 0x3e80 - 0x3e8a
+Miniblock 1:		0x3e80		-		0x3e8a		| RW-
+Block 5 end
+
+Warning: size was bigger than the block size. Writing 10 characters.
+Warning: size was bigger than the block size. Writing 10 characters.
+Observ sis
+Invalid permissions for write.Total memory: 0x10000
+Free memory: 0xfec0
+Number of allocated blocks: 6
+Number of allocated miniblocks: 12
+
+Block 1 begin
+Zone: 0x7c6 - 0x7da
+Miniblock 1:		0x7c6		-		0x7d0		| RW-
+Miniblock 2:		0x7d0		-		0x7da		| RW-
+Block 1 end
+
+Block 2 begin
+Zone: 0xff6 - 0x1000
+Miniblock 1:		0xff6		-		0x1000		| RW-
+Miniblock 2:		0x1000		-		0x100a		| RW-
+Block 2 end
+
+Block 3 begin
+Zone: 0x1014 - 0x1028
+Miniblock 1:		0x1014		-		0x101e		| RW-
+Miniblock 2:		0x101e		-		0x1028		| RW-
+Block 3 end
+
+Block 4 begin
+Zone: 0x3000 - 0x3014
+Miniblock 1:		0x3000		-		0x300a		| RW-
+Block 4 end
+
+Block 5 begin
+Zone: 0x3014 - 0x3032
+Miniblock 1:		0x3014		-		0x301e		| ---
+Miniblock 2:		0x301e		-		0x3028		| RW-
+Miniblock 3:		0x3028		-		0x3032		| RW-
+Miniblock 4:		0x3032		-		0x303c		| RW-
+Block 5 end
+
+Block 6 begin
+Zone: 0x3e80 - 0x3e8a
+Miniblock 1:		0x3e80		-		0x3e8a		| RW-
+Block 6 end
+
